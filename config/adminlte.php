@@ -235,7 +235,7 @@ return [
         ['header' => 'Páginas'],
         [
             'text' => 'Membros',
-            'url'  => 'membros',
+            'url'  => 'usuarios',
             'icon' => 'fas fa-fw fa-user',
         ],
         [
