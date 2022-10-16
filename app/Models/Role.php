@@ -18,22 +18,4 @@ class Role extends Model
     protected $fillable = [
         'name',
     ];
-
-    /**
-     * The attributes that should be hidden for arrays.
-     *
-     * @var array
-     */
-    protected $hidden = [
-
-    ];
-
-    /**
-     * Get the user from the table role;
-     */
-
-    public function users()
-    {
-        return $this->hasMany(User::class);
-    }
 }
