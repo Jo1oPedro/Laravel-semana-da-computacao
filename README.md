@@ -5,8 +5,8 @@
 | [Como executar o projeto inicial](#como-executar-o-projeto-inicial) |
 
 ## Como executar o projeto inicial
-\* É necessário ter o _PHP 8.0+_ e o _Laravel 9_ instalados. Download para fazer a instalação: https://www.apachefriends.org/pt_br/download.html
-\* É necessário ter o composer instalado. Download para fazer a instalação: https://getcomposer.org/
+\* É necessário ter o _PHP 8.0+_ e o _Laravel 9_ instalados. Download para fazer a instalação: https://www.apachefriends.org/pt_br/download.html <br>
+\* É necessário ter o composer instalado. Download para fazer a instalação: https://getcomposer.org/ <br>
 \* É necessário ter o node instalado para executar o npm install. Donwload para fazer a instalação: https://nodejs.org/en/
 1. Abra o Terminal na Pasta do Projeto;
 2. Instale as dependências necessárias: `composer install`;
