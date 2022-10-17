@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'Reboot',
+    'title' => 'Apresentação',
     'title_prefix' => '',
     'title_postfix' => '',
 
@@ -45,12 +45,12 @@ return [
     |
     */
 
-    'logo' => '<strong>Reboot</strong>',
+    'logo' => '<strong>Apresentação</strong>',
     'logo_img' => 'vendor/adminlte/dist/img/antonio.png',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
     'logo_img_xl_class' => 'brand-image-xs',
-    'logo_img_alt' => 'Reboot',
+    'logo_img_alt' => 'Semana da computação',
 
     /*
     |--------------------------------------------------------------------------
