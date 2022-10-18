@@ -2,7 +2,11 @@
 
 | **Sumário** |
 |-------------|
+| [Objetivo do repositório](#objetivo-do-repositorio) |
 | [Como executar o projeto inicial](#como-executar-o-projeto-inicial) |
+
+## Objetivo do repositório
+Esse repositório foi utilizado para o minicurso que dei para a semana da computação na UFJF no dia 18/10/2022
 
 ## Como executar o projeto inicial
 \* É necessário ter o _PHP 8.1+_ e o _Laravel 9_ instalados. Download para fazer a instalação: https://www.apachefriends.org/pt_br/download.html <br>
