@@ -7,9 +7,9 @@
         @include('admin.cores.form')
         <div>
             <ul>
-                @foreach ($core->members as $member)
+                @foreach ($core->users as $user)
                     <li>
-                        {{ $member->name }}
+                        {{ $user->name }}
                     </li>
                 @endforeach
             </ul>

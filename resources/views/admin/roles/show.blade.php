@@ -6,9 +6,9 @@
     @slot('content')
         @include('admin.roles.form')
         <ul>
-            @foreach ($role->members as $member)
+            @foreach ($role->users as $user)
                 <li>
-                    {{ $member->name }}
+                    {{ $user->name }}
                 </li>
             @endforeach
         </ul>
